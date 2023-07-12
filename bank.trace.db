@@ -1,0 +1,3 @@
+2019-03-21 20:47:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "TRUNCATE TABLEBANK_USER[*]  BANK_USER "; expected "TABLE"; SQL statement:
+truncate tableBANK_USER  BANK_USER [42001-197]
